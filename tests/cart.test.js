@@ -12,3 +12,4 @@ test("calculates the total of cart items", () => {
 test("returns zero for an empty cart", () => {
     expect(calculateCartTotal([])).toBe(0);
 });
+// Test improvements
