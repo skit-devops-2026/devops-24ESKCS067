@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -11,5 +12,8 @@
   "description": "",
   "devDependencies": {
     "jest": "^30.5.1"
+  },
+  "dependencies": {
+    "prom-client": "^15.1.3"
   }
 }
