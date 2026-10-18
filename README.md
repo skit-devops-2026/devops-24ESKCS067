@@ -1,6 +1,6 @@
 ## Deployment
 
-**Live Application:** [https://devops-24eskcs067.onrender.com/]
+**Live Application:** https://devops-24eskcs067.onrender.com/
 
 ### Health Check
 `https://devops-24eskcs067.onrender.com/health`
