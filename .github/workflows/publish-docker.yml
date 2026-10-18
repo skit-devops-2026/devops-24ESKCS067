@@ -35,7 +35,7 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
-            - name: Build and publish image
+      - name: Build and publish image
         uses: docker/build-push-action@v6
         with:
           context: .
@@ -43,3 +43,4 @@ jobs:
           tags: |
             ghcr.io/skit-devops-2026/devops-24eskcs067:latest
             ghcr.io/skit-devops-2026/devops-24eskcs067:${{ github.sha }}
+
