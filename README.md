@@ -3,7 +3,7 @@
 **Live Application:** [https://devops-24eskcs067.onrender.com/]
 
 ### Health Check
-`https://YOUR-ACTUAL-SERVICE.onrender.com/health`
+`https://devops-24eskcs067.onrender.com/health`
 
 Expected response:
 `{"status":"ok"}`
