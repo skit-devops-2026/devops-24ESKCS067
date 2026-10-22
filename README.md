@@ -1,6 +1,4 @@
-## Deployment
-
-**Live Url:** https://devops-24eskcs067.onrender.com/
+## Live Url https://devops-24eskcs067.onrender.com/
 
 ### Health Check
 `https://devops-24eskcs067.onrender.com/health`
